@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quote Of The Day</string>
+    <string name="btnTitle">Get Inspired</string>
+    <string name="title">Today\'s Inspiration</string>
+    <string name="quote">It always seems impossible until it
+is done. - Nelson Mandela</string>
+    <string name="success">Wait 10 seconds for inspiration to show!</string>
+</resources>
